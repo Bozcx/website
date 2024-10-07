@@ -4,7 +4,7 @@
 </script>
 
 <section class="container">
-	<FirstSection />
+	<FirstSection/>
 </section>
 
 <style>
