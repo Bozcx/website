@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Atkinson';
+    src: url('/fonts/atkinson.ttf');
+}
+
+* {
+    scroll-behavior: smooth !important;
+    font-family: "Atkinson", sans-serif;
+}
+
+body {
+    margin: 0;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
