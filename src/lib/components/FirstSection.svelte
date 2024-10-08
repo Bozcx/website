@@ -4,7 +4,7 @@
 </section>
 
 <style>
-    .top_section {
+    .top_section{
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -12,19 +12,21 @@
         gap: 10px;
 
         width: 100%;
-        height: 100vh;
+        height: max(350px, calc(100vh - 80px));
 
         color: white;
     }
 
-    .title {
+    .title{
         margin: 0 15px;
         line-height: 0.9;
+
         font-size: 6rem;
     }
 
     .subtitle {
         margin-bottom: 130px;
+
         color: whitesmoke;
         font-size: 1.5rem;
         font-style: italic;

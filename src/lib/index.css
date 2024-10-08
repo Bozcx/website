@@ -3,6 +3,10 @@
     src: url('/fonts/atkinson.ttf');
 }
 
+:root {
+    --primary-colour: rgb(16, 16, 20);
+}
+
 * {
     scroll-behavior: smooth !important;
     font-family: "Atkinson", sans-serif;
