@@ -4,7 +4,7 @@
 
 <div class="nav-container">
 	<div class="nav-title-container">
-		<span class="nav-title">Boz.cx | ダミアン</span>
+		<span class="nav-title">Boz.cx</span>
 	</div>
 
   <div class="navLinks">
